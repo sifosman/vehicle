@@ -1,0 +1,5 @@
+{
+  "name": "SA Vehicle Finance Calculator",
+  "description": "A detailed vehicle finance affordability calculator for South Africa, adhering to National Credit Act principles. It assesses user inputs to provide clear financial recommendations and affordability status.",
+  "requestFramePermissions": []
+}
